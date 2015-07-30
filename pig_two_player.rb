@@ -36,7 +36,6 @@ loop do
 		puts "Would you like to hold? Enter y or n"
 		answer = gets.chomp.downcase
 		if answer == "y"
-			player_2_score += roll
 			current_player = player_1
 		end
 	end
