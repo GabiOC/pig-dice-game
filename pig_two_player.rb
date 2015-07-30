@@ -1,6 +1,5 @@
 player_1, player_2 = "Player 1", "Player 2"
-player_1_score = 0
-player_2_score = 0
+player_1_score, player_2_score = 0, 0
 current_player = player_1
 
 
